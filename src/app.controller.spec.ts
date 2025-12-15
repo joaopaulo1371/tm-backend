@@ -15,8 +15,17 @@ describe('AppController', () => {
   });
 
   describe('root', () => {
-    it('should return "Hello World!"', () => {
-      expect(appController.getHello()).toBe('Hello World!');
+    it('should return application status object', () => {
+      expect(appController.getHello()).toEqual({
+        message: 'TM Digital - CRM Agrícola API',
+        version: '1.0.0',
+        endpoints: {
+          leads: '/api/leads',
+          properties: '/api/properties',
+          dashboard: '/api/leads/dashboard',
+        },
+        status: 'running',
+      });
     });
   });
 });
