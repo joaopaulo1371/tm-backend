@@ -159,19 +159,6 @@ Se o projeto exige criação automática de tabelas/migrações, execute os scri
 
 O Nest é um projeto open source licenciado sob MIT. Ele cresce graças ao suporte de patrocinadores e contribuintes. Se quiser apoiar, leia mais em [docs.nestjs.com/support](https://docs.nestjs.com/support).
 
-## Fique em contato
-
-- Autor - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## Licença
-
-O Nest é licenciado sob a licença MIT: https://github.com/nestjs/nest/blob/master/LICENSE
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
-</p>
-
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
@@ -330,12 +317,3 @@ If you need the application to automatically create/migrate tables, run your pro
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
